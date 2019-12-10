@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 HEROIS AMB CAPA
 /////////////////
+=======
+SUPERHEROIS
+****************
+>>>>>>> herois2
 Spider-man
 Superman
 Vegetta
